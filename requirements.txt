@@ -1,5 +1,5 @@
 ﻿streamlit
 pyrebase4
 setuptools
-mathplotlib
+matplotlib
 seaborn
